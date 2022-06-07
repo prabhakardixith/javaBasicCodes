@@ -1,0 +1,10 @@
+body{
+    background-image: url(image/javascript-image.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+#h{
+    text-align: center;
+    color:teal;
+}

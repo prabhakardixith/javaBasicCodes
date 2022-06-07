@@ -1,0 +1,80 @@
+img{
+    width: 40px;
+}
+img:hover{
+
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 2px 6px;
+    align-items: center;
+}
+li{
+    display: inline;
+}
+
+body{
+  background-image:  url(image/college.jpeg); 
+   background-repeat: no-repeat;
+   background-size:cover;
+}
+
+
+.navigation ul li{
+ 
+   border:  solid 0px;
+   display: inline-block;
+   position: relative;
+   color: snow;
+   padding: 8px 26px;
+   font-size: 20px;
+}
+
+#logo{
+    display: inline;
+}
+a{
+    text-decoration: none;
+}
+.text-box{
+    text-align: center;
+    width: 100%;
+    background-color: ;
+    position: absolute;
+    color:snow;
+    
+}
+.text-box h1{
+    font-size:  70px;
+    color:snow;
+   
+}
+.b{
+    padding: 10px 100px;
+    color:snow;
+    font-size: 20px;
+    border: solid 1px ;
+    
+    
+    
+}
+.text-box p{
+    font-size: 20px;
+}
+.navigation li:hover{
+    text-decoration: underline;
+    transition: 1s;
+    font-size: 30px;
+}
+.b:hover{
+    border: solid 1px;
+    font-size: 40px;
+}
+p{
+    text-transform: capitalize;
+}
+body{
+    opacity: 0.9;
+}

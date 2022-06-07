@@ -1,0 +1,29 @@
+#f{
+    text-transform: capitalize;
+    color:rebeccapurple;
+    text-align:center;
+   
+}
+/* applying to everytag 
+
+*{
+    color:violet;
+    text-transform: uppercase;
+
+}
+
+*/
+
+
+div.c1{
+    text-align:center;
+    color:teal;
+    text-transform: capitalize;
+}
+
+div.c2{
+    text-align:center;
+    color:steelblue;
+    text-transform: capitalize;
+}
+

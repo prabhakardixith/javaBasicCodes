@@ -1,0 +1,63 @@
+#f,#h{
+    text-transform: capitalize;
+    color:papayawhip;
+    text-align:center;
+   background-color: cadetblue;
+}
+/* applying to everytag 
+
+*{
+    color:violet;
+    text-transform: uppercase;
+
+}
+
+*/
+
+/* 
+div.c1{
+    text-align:center;
+    color:teal;
+    text-transform: capitalize;
+    background-color: bisque;
+}
+
+div.c2{
+    text-align:center;
+    color:steelblue;
+    text-transform: capitalize;
+    background-color: bisque;
+  
+}
+*/
+
+#mainid{
+    text-align:center;
+    color:cornsilk;
+    text-transform: capitalize;
+    background-image: url(image/newyork1.jpeg);
+}
+/* child combinator*/
+div > h1{
+    color:salmon;
+}
+
+/* descendance combinator */
+div p{
+    color: sandybrown;
+}
+
+/* adjuscent sibling combinator */
+div + p{
+    color:teal;
+
+}
+/* general sibling combinator */
+div ~ p{
+    color:purple;
+    background-color:pink;
+
+}
+body{
+    background-color:seashell;
+}

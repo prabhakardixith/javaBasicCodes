@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    color:darkred;
+    background-color: darkseagreen;
+}
+p{
+    text-align: center;
+    color:slateblue;
+    background-color: silver;
+}
+p:hover{
+    background-color: steelblue;
+    text-transform: capitalize;
+    color: whitesmoke;
+   
+   
+}
+
+h1:hover{
+    
+    color:whitesmoke;
+    background-color: steelblue;
+    text-transform: uppercase;
+
+}
+p::first-line{
+
+    color:yellow;
+    text-transform: uppercase;
+}
+h1::first-letter{
+    font-size:100px;
+}
+body{
+    background-color:mintcream;
+}
+
+#p1::before{
+    content: "Love";
+    font-size: 50px;
+    color: mintcream;
+  
+}
+p::after{
+    content: "world";
+    color:greenyellow;
+    font-size: 30px;
+}
+

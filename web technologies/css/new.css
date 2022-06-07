@@ -1,0 +1,23 @@
+h2{
+    text-align: center;
+    color: aliceblue;
+    background-size: cover;
+    text-decoration: underline;
+    font-size:xx-large;
+  
+}
+p{
+    text-align: center;
+    color:whitesmoke;
+}
+body{
+   
+    background-image: url(image/html-image.png) ;
+    
+}
+h1{
+    text-decoration: underline;
+    text-decoration-style: wavy;
+   
+
+}

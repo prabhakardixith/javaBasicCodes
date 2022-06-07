@@ -1,0 +1,97 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:steelblue;
+    font-size: large;
+}
+#img1{
+    width: 300px;
+    height: 300px;
+    
+}
+
+#img1:active{
+    content: url(image/html-image.png);
+    width: 500px;
+    height: 500px;
+}
+
+h1{
+    text-align: center;
+    color: yellowgreen;
+}
+h1:hover{
+    color:steelblue;
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: whitesmoke;
+    transition: 2s;
+}
+big{
+
+    color: yellowgreen;
+    
+}
+small{
+    color: yellowgreen;
+}
+#sb:hover{
+
+color: whitesmoke;
+font-size: 30px;
+}
+
+#img2{
+    display: block;
+    width: 300px;
+    height: 300px;
+    
+}
+#img2:hover{
+    margin-left:500px ;
+    content: url(image/javascript-image.jpeg);
+    
+
+}
+
+#img2:active{
+
+    border: solid 5px whitesmoke;
+}
+
+#dh{
+    background-color: yellowgreen;
+    border: solid 4px whitesmoke;
+    
+  
+}
+
+#d1{
+    display: block;
+    background-color: red;
+    height: 100px;
+    width: 300px;
+    
+}
+#d2{
+background-color: navy;
+height: 100px;
+width: 300px;
+}
+#d3{
+    background-color: mediumvioletred;
+    height: 100px;
+    width: 300px;
+}
+#d1:hover{
+    margin-left: 500px;
+    background-color:navy;
+   
+}
+#d2:hover{
+    margin-left: 500px;
+    background-color: mediumvioletred;
+}
+#d3:hover{
+    margin-left: 500px;
+    background-color: red;
+}

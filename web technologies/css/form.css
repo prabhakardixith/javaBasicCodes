@@ -1,0 +1,90 @@
+#form{
+    margin-left: 500px;
+   
+    background-color:teal;
+   width: 350px;
+   height: 270px;
+   border:mediumturquoise;
+   border-style: solid;
+   text-transform: uppercase;
+  
+   
+   
+}
+
+
+
+#content{
+    padding-top: 30px;
+    padding-left: 50px;
+    padding: 10px;
+    
+    
+}
+
+
+div {
+    color: whitesmoke;
+ 
+}
+body{
+    background-color:mintcream;
+}
+#head{
+    background-color:teal;
+    border:whitesmoke;
+    border-style: solid;
+    padding:0px;
+}
+
+
+
+
+button{
+    background-color: whitesmoke;
+    width: 70px;
+
+}
+button:hover{
+    background-color: violet;
+    color: whitesmoke;
+}
+
+
+#input:focus{
+    background-color: tan;
+}
+#form:active{
+    background-color: red;
+}
+
+input:hover{
+    border: solid 2px purple;
+    
+}
+label{
+    opacity: 1;
+    color:aliceblue;
+}
+label:hover{
+    opacity: 1;
+    color: yellowgreen;
+}
+
+img{
+    opacity: 0.5;
+}
+img:hover{
+    opacity: 1;
+
+}
+#f{
+    text-align: center; 
+    color:slateblue;
+    background-color:snow;
+}
+#f:hover{
+    background-color:slateblue;
+    color: white;
+}
+
